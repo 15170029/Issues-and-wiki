@@ -7,7 +7,7 @@ public class HelloTest1 {
 		 * Вывод на экран
 		 */
 	
-		System.out.println("Hello, Domrachev Alexey");
+		System.out.println("Hello,  Alexey");
 
 		}
 
