@@ -1,9 +1,7 @@
-public class HelloTest1 {
 
-	public static void main(String[] args) {
-
-		System.out.println("Hello, Domrachev Alexey");
-
-		}
-
-	}
+import java.awt.*;
+import java.applet.*;
+public class HelloWorld extends Applet {
+public void paint(Graphics g) {
+g.drawString("Hello World!", 20, 20);
+} }
